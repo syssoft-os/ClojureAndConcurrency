@@ -1,0 +1,5 @@
+(def a 12)
+a
+(def a 14)
+a
+exit

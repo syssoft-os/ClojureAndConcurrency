@@ -1,0 +1,21 @@
+(mul_is_better_than_add `(+ 2 3))
+(+ 2 3)
+(mul_is_better_than_add)
+(mul_is_better_than_add (+ 2 3))
+(mul_is_better_than_add myprog)
+(myprog)
+myprog
+exit
+(println myprog)
+exit
+(println myprog)
+exit
+(+ 2 3)
+(println myprog)
+(-main)
+(println myprog)
+(eval myprog)
+(eval (mul_is_better_than_add myprog))
+exit
+(println myprog)
+(+ 2 3)

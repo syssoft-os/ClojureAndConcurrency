@@ -1,0 +1,19 @@
+(def t (future (Thread/sleep 5000)))
+@t
+t
+(def p (promise))
+(def t (future ((Thread/sleep 5000) (deliver p 42))))
+t
+@t
+t
+(deliver p 43)
+@p
+t
+(def t (future ((Thread/sleep 5000) (deliver p 42)) true))
+t
+(def t (future (((deliver p 42)) true))
+)
+t
+(def t (future ((deliver p 42) true)))
+t
+exit

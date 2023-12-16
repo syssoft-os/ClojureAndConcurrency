@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3219d079-c37b-462c-9a54-814d097615ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WTa5FByavsgQhHA03a6UCJdI3l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.13650794" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ReplState" timestamp="1579685976295">{:repl-history {:ide [], :local [{:command &quot;a&quot;, :offset 1, :ns &quot;clj-code-is-data.core&quot;}], :remote []}}</component>
+  <component name="RunManager" selected="Clojure REPL.repl">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="clj_code_is_data" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="clj_code_is_data" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="clj-code-is-data.core" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Clojure Application.main" />
+      <item itemvalue="Clojure REPL.repl" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3219d079-c37b-462c-9a54-814d097615ab" name="Default Changelist" comment="" />
+      <created>1579175853232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579175853232</updated>
+      <workItem from="1579175858444" duration="148000" />
+      <workItem from="1579176226056" duration="55000" />
+      <workItem from="1579606079261" duration="1225000" />
+      <workItem from="1579685486498" duration="489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579685590953">
+      <screen x="52" y="23" width="1868" height="1057" />
+    </state>
+    <state x="590" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog/52.23.1868.1057@52.23.1868.1057" timestamp="1579685590953" />
+    <state x="522" y="264" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.23.1627.1027@53.23.1627.1027" timestamp="1579606317186" />
+    <state width="1585" height="234" key="GridCell.Tab.0.bottom" timestamp="1579685976001">
+      <screen x="52" y="23" width="1868" height="1057" />
+    </state>
+    <state width="1585" height="234" key="GridCell.Tab.0.bottom/52.23.1868.1057@52.23.1868.1057" timestamp="1579685976001" />
+    <state width="1585" height="76" key="GridCell.Tab.0.bottom/53.23.1627.1027@53.23.1627.1027" timestamp="1579617835836" />
+    <state width="1585" height="234" key="GridCell.Tab.0.center" timestamp="1579685976001">
+      <screen x="52" y="23" width="1868" height="1057" />
+    </state>
+    <state width="1585" height="234" key="GridCell.Tab.0.center/52.23.1868.1057@52.23.1868.1057" timestamp="1579685976001" />
+    <state width="1585" height="76" key="GridCell.Tab.0.center/53.23.1627.1027@53.23.1627.1027" timestamp="1579617835835" />
+    <state width="1585" height="234" key="GridCell.Tab.0.left" timestamp="1579685976000">
+      <screen x="52" y="23" width="1868" height="1057" />
+    </state>
+    <state width="1585" height="234" key="GridCell.Tab.0.left/52.23.1868.1057@52.23.1868.1057" timestamp="1579685976000" />
+    <state width="1585" height="76" key="GridCell.Tab.0.left/53.23.1627.1027@53.23.1627.1027" timestamp="1579617835835" />
+    <state width="1585" height="234" key="GridCell.Tab.0.right" timestamp="1579685976001">
+      <screen x="52" y="23" width="1868" height="1057" />
+    </state>
+    <state width="1585" height="234" key="GridCell.Tab.0.right/52.23.1868.1057@52.23.1868.1057" timestamp="1579685976001" />
+    <state width="1585" height="76" key="GridCell.Tab.0.right/53.23.1627.1027@53.23.1627.1027" timestamp="1579617835835" />
+    <state x="1008" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1579685492726">
+      <screen x="52" y="23" width="1868" height="1057" />
+    </state>
+    <state x="1008" y="404" key="com.intellij.ide.util.TipDialog/52.23.1868.1057@52.23.1868.1057" timestamp="1579685492726" />
+    <state x="886" y="393" key="com.intellij.ide.util.TipDialog/53.23.1627.1027@53.23.1627.1027" timestamp="1579606086527" />
+  </component>
+</project>

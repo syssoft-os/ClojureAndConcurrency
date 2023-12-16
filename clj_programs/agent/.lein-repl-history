@@ -1,0 +1,45 @@
+(defn f [x] (println x) (+ 2 3) 42)
+(f 2)
+exit
+(def x '([1 2][3 4]))
+x
+(first x)
+(rest x)
+(first (rest x))
+exit
+(def w (vec (repeat 3 (agent 0))))
+w
+(def a1 (agent 0))
+(def a2 (agent 0))
+a1
+a2
+(vec (map (fn [x] (agent 0)) (range 1 4)))
+exit
+(def a (vec (agent 0) (agent 0)))
+(def a (vec (map (fn [_] (agent 0)) (range 0 3))))
+a
+(send (a 1) + 1)
+@(a 1)
+@(a 0)
+@(a 2)
+@(a 3)
+(count a)
+(flatten a)
+(first (flatten a))
+(first (rest (flatten a)))
+(count (flatten a))
+(map (fn [x] (println x)) a)
+(map (fn [x] (println x)) (flatten a))
+(map (fn [x] @a) a)
+a
+(map (fn [x] @x) a)
+(map (fn [x] (await x) @x) a)
+(reduce + 0 (map (fn [x] (await x) @x) a))
+exit
+(def v `([1 2][3 4][5 6][6 7]))
+v
+(doseq [[i x] v] (println i ":" x))
+exit
+(def x `[1 2 3 4 5])
+(doseq [i x] (println i))
+exit
