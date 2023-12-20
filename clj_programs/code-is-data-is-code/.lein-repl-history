@@ -19,3 +19,6 @@ exit
 exit
 (println myprog)
 (+ 2 3)
+(* 3 3)
+(* 3 3 3 3 3)
+sdk

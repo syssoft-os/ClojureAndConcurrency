@@ -3,7 +3,7 @@
 
 (import java.util.concurrent.Executors)
 
-(def n 10000000)
+(def n 20000000)
 (def p 1000)
 
 (def is_prime?
